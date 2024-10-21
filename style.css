@@ -43,14 +43,18 @@ header img i{
 
   width: 100%;
   font-weight: 600;
-  font-size: 30px;
+  font-size: 50px;
   margin: 10px;
+  color:#049c37;
 }
 .banner p{
  width: 450px;
  margin: 0 auto;
- font-size: 25px;
+ font-size: 20px;
  opacity: 0.8;
+ color:#12130c;
+ font-weight: 700;
+ 
 }
 .products{
   width: 80%;
@@ -72,6 +76,7 @@ header img i{
   font-weight: 500;
   font-size: 17px;
   margin-bottom: 5px;
+  color: #333;
 
 }
 .products p{
